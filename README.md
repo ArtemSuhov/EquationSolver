@@ -1,0 +1,2 @@
+# EquationSolver
+Study C++ project
